@@ -1,0 +1,287 @@
+
+body{
+margin-top: 5%;
+
+
+}
+
+hr{
+  border-color: rgb(153, 153, 153);
+  border-style: dotted none none;
+  border-width: 10.5px;
+  height: -10pt;
+  width: 17%;
+  }
+
+  form{
+
+        margin-left: 40%;
+
+
+  }
+label{
+
+color: rgb(5, 5, 5);
+ font-size: 16px;
+ font-family: Arial;
+
+ 
+
+
+
+
+}
+input{
+
+background-color: rgb(255, 248, 248);
+
+
+
+}
+a{
+
+color: rgb(31, 94, 94);
+animation-duration: 0s;
+
+}
+.hf{
+
+  position: relative;
+  left: 45%;
+  height: 175px;
+  width: 175px;
+  
+  
+  }
+.pr{
+ 
+
+color: rgb(0, 0, 0);
+font-size:  4em;;
+font-family: 'Sacramento', cursive;
+text-align: center;
+display: block;
+
+
+}
+.pr1 {
+
+color: rgb(0, 0, 0);
+font-size:large;
+font-style:bold;
+font-style: italic;
+display: block;
+text-align:center;
+
+ }
+ 
+
+.link:hover{
+
+color: rgb(151, 255, 119);
+
+
+}
+.T1{
+
+position: relative;
+left: 39%;
+text-align:center;
+font-size: 1.4em;
+font-family: 'Josefin Sans', sans-serif;
+font-style: bold;
+margin-bottom: 5%;
+
+
+}
+.timg{
+  margin-top:5% ;
+  position: relative;
+  left:45%;
+  
+  height:150px ;
+width: 150px ;
+
+
+
+}
+
+.aa{
+
+color: black;
+
+}
+.c1{
+ 
+  position: relative;
+  left: 70%;
+display: block;
+
+
+}
+.c2{
+
+position: absolute;
+right:70%;
+height: 200x;
+width: 200px;
+
+}
+.f1{
+margin:5% 5% 5% 5%;
+text-align: center;
+color: black;
+font-size: 1.3em;
+font-family:serif;
+padding: 20px;
+
+
+}
+.f0{
+  color: black;
+  font-family: 'Sacramento', cursive;
+
+  text-align: center;
+display: block;
+font-size: 4em;
+font-style: italic;
+text-shadow: brown;
+}
+.f0img{
+
+margin-top:5% ;
+height: 130px;
+width: 130px;
+position: relative;
+left: 45%;
+}
+.hello{
+  
+  text-align: center;
+ color: black;
+ font-size: 2.5em;
+ font-family: 'Sacramento', cursive;
+ font-style: italic;
+
+
+
+}
+.lh{
+
+
+  font-family: 'Sacramento', cursive;
+text-align: center;
+font-size: 3em;
+}
+.list1{
+
+position:relative;
+left: 43%;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 1.5em;
+margin-bottom: 5%;
+}
+.liimg{
+margin-top: 5%;
+height: 150px; 
+width: 150px; 
+position: relative;
+left: 45%;
+
+
+}
+
+.t2{
+
+text-align: center;
+font-family: 'Sacramento', cursive;
+font-size: 3em;
+
+}
+.table{
+
+  position: relative;
+  left: 33%;
+ font-size: 1.2em;
+ font-family: 'Josefin Sans', sans-serif;
+ border :dotted;
+ margin-bottom: 5%;  
+  }
+  .timg2{
+margin-top: 5%;
+height: 130px;
+width: 130px;
+position: relative;
+left: 45%;
+
+  }
+  .h3{
+
+text-align: center;
+    font-family: 'Sacramento', cursive;
+ font-size: 3.5em;
+  }
+  .t3{
+
+font-size: x-large;
+    font-family: 'Josefin Sans', sans-serif;
+    
+  margin-bottom: 5%;
+
+  }
+  .t3img{
+
+    margin-top: 5%;
+   
+      height: 130px;
+      width: 130px;
+      position: relative;
+      left: 45%;
+
+
+  }
+  .l1{
+
+height: 45px;
+width: 45px;
+padding:10px 10px 10px 10px;
+
+  }
+  .l2{
+
+height: 45px;
+width: 45px;
+ padding:10px 10px 10px 10px; } 
+ 
+ .l3{
+
+height: 45px;
+width: 45px;
+ padding:10px 10px 10px 10px; }
+
+ .l4{
+
+height: 45px;
+width: 45px;
+ padding:10px 10px 10px 10px; }
+
+  .l5{
+
+height: 45px;
+width: 45px;
+ padding:10px 10px 10px 10px; }
+
+ .table2{
+margin: 5%;
+position: relative;
+left:35%;
+
+ }
+.visit{
+
+height: 200px;
+width: 200px;
+position: relative;
+left: 45%;
+
+}
